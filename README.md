@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thomas, I'm a fullstack Javascript developer with React and Node.js, certified Kubernetes developer.
+My name is Thomas, I'm a fullstack developer with React, Node.js and Python, certified Kubernetes developer.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tomtom94&show_icons=true)
 
